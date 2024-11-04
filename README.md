@@ -26,3 +26,5 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
+
+<!-- Commit 1: refactor: Extract common logic into helper function on 2024-11-04 16:36:07 -->
