@@ -407,3 +407,4 @@ This project is licensed under the MIT License.
 <!-- Commit 1: test: Add unit tests for new module on 2024-11-05 15:30:44 -->
 <!-- Commit 2: docs: Generate Sphinx documentation on 2024-11-06 16:00:39 -->
 <!-- Commit 3: feat: Add new feature for data processing on 2024-11-06 17:08:37 -->
+<!-- Commit 4: docs: Clarify installation instructions on 2024-11-06 09:59:12 -->
