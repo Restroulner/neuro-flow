@@ -742,3 +742,4 @@ This project is licensed under the MIT License.
 <!-- Commit 2: style: Format code according to PEP8 on 2024-11-05 12:13:52 -->
 <!-- Commit 3: fix: Resolve bug in model training loop on 2024-11-06 09:13:26 -->
 <!-- Commit 4: fix: Resolve bug in model training loop on 2024-11-06 17:02:52 -->
+<!-- Commit 6: style: Format code according to PEP8 on 2024-11-08 17:17:57 -->
