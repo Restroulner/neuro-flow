@@ -33,3 +33,4 @@ This project is licensed under the MIT License.
 <!-- Commit 4: perf: Parallelize computation on 2024-11-07 16:21:13 -->
 <!-- Commit 6: fix: Handle edge cases in input validation on 2024-11-08 16:37:02 -->
 <!-- Commit 7: style: Adhere to linter rules on 2024-11-11 11:56:04 -->
+<!-- Commit 8: docs: Generate Sphinx documentation on 2024-11-12 15:24:56 -->
