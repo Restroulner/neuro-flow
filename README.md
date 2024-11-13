@@ -747,3 +747,4 @@ This project is licensed under the MIT License.
 <!-- Commit 8: refactor: Extract common logic into helper function on 2024-11-11 12:11:27 -->
 <!-- Commit 9: feat: Implement new evaluation metric on 2024-11-12 12:59:08 -->
 <!-- Commit 11: style: Format code according to PEP8 on 2024-11-13 16:16:33 -->
+<!-- Commit 12: test: Add integration tests on 2024-11-13 15:08:18 -->
