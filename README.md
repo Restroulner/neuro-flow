@@ -410,3 +410,4 @@ This project is licensed under the MIT License.
 <!-- Commit 4: docs: Clarify installation instructions on 2024-11-06 09:59:12 -->
 <!-- Commit 6: refactor: Extract common logic into helper function on 2024-11-12 14:06:01 -->
 <!-- Commit 7: test: Add integration tests on 2024-11-12 14:18:10 -->
+<!-- Commit 8: fix: Prevent potential race condition on 2024-11-13 10:24:01 -->
