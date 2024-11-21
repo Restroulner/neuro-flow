@@ -751,3 +751,4 @@ This project is licensed under the MIT License.
 <!-- Commit 13: chore: Automate release process on 2024-11-15 09:05:30 -->
 <!-- Commit 14: docs: Update README with usage examples on 2024-11-15 14:27:45 -->
 <!-- Commit 16: style: Clean up whitespace on 2024-11-20 17:25:07 -->
+<!-- Commit 17: feat: Implement new evaluation metric on 2024-11-21 09:25:42 -->
