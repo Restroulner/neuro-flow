@@ -413,3 +413,4 @@ This project is licensed under the MIT License.
 <!-- Commit 8: fix: Prevent potential race condition on 2024-11-13 10:24:01 -->
 <!-- Commit 9: refactor: Decouple modules on 2024-11-18 09:03:39 -->
 <!-- Commit 11: style: Format code according to PEP8 on 2024-11-20 16:04:07 -->
+<!-- Commit 12: docs: Clarify installation instructions on 2024-11-25 12:56:32 -->
