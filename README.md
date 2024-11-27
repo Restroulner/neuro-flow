@@ -753,3 +753,4 @@ This project is licensed under the MIT License.
 <!-- Commit 16: style: Clean up whitespace on 2024-11-20 17:25:07 -->
 <!-- Commit 17: feat: Implement new evaluation metric on 2024-11-21 09:25:42 -->
 <!-- Commit 18: docs: Add API documentation on 2024-11-25 11:20:26 -->
+<!-- Commit 19: docs: Update README with usage examples on 2024-11-27 09:19:38 -->
