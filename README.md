@@ -1023,3 +1023,4 @@ This project is licensed under the MIT License.
 <!-- Commit 13: test: Improve test coverage on 2024-11-19 15:21:12 -->
 <!-- Commit 14: docs: Add API documentation on 2024-11-21 09:26:13 -->
 <!-- Commit 16: fix: Prevent potential race condition on 2024-11-27 17:54:09 -->
+<!-- Commit 17: refactor: Extract common logic into helper function on 2024-11-28 14:25:30 -->
