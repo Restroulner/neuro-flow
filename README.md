@@ -754,3 +754,4 @@ This project is licensed under the MIT License.
 <!-- Commit 17: feat: Implement new evaluation metric on 2024-11-21 09:25:42 -->
 <!-- Commit 18: docs: Add API documentation on 2024-11-25 11:20:26 -->
 <!-- Commit 19: docs: Update README with usage examples on 2024-11-27 09:19:38 -->
+<!-- Commit 21: fix: Resolve bug in model training loop on 2024-11-28 14:43:27 -->
