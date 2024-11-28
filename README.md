@@ -49,3 +49,4 @@ This project is licensed under the MIT License.
 <!-- Commit 24: refactor: Decouple modules on 2024-11-27 10:37:44 -->
 <!-- Commit 26: test: Improve test coverage on 2024-11-27 16:10:13 -->
 <!-- Commit 27: feat: Add support for new model architecture on 2024-11-28 13:55:36 -->
+<!-- Commit 28: fix: Prevent potential race condition on 2024-11-28 12:28:48 -->
