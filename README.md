@@ -51,3 +51,4 @@ This project is licensed under the MIT License.
 <!-- Commit 27: feat: Add support for new model architecture on 2024-11-28 13:55:36 -->
 <!-- Commit 28: fix: Prevent potential race condition on 2024-11-28 12:28:48 -->
 <!-- Commit 29: refactor: Extract common logic into helper function on 2024-11-29 17:50:21 -->
+<!-- Commit 31: perf: Parallelize computation on 2024-11-29 10:18:48 -->
