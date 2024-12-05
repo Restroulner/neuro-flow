@@ -758,3 +758,4 @@ This project is licensed under the MIT License.
 <!-- Commit 22: chore: Configure CI/CD pipeline on 2024-11-28 17:37:46 -->
 <!-- Commit 23: chore: Update dependencies on 2024-11-29 12:37:17 -->
 <!-- Commit 24: chore: Automate release process on 2024-12-03 11:22:35 -->
+<!-- Commit 26: docs: Generate Sphinx documentation on 2024-12-05 11:35:23 -->
