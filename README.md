@@ -423,3 +423,4 @@ This project is licensed under the MIT License.
 <!-- Commit 21: perf: Optimize data loading performance on 2024-11-29 17:02:34 -->
 <!-- Commit 22: test: Add integration tests on 2024-12-02 15:12:18 -->
 <!-- Commit 23: refactor: Simplify conditional statements on 2024-12-06 16:10:04 -->
+<!-- Commit 24: fix: Correct off-by-one error in indexing on 2024-12-06 12:32:36 -->
