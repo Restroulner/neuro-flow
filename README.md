@@ -762,3 +762,4 @@ This project is licensed under the MIT License.
 <!-- Commit 27: perf: Optimize data loading performance on 2024-12-05 14:35:39 -->
 <!-- Commit 28: docs: Generate Sphinx documentation on 2024-12-13 13:16:10 -->
 <!-- Commit 29: perf: Optimize data loading performance on 2024-12-13 11:26:35 -->
+<!-- Commit 31: refactor: Simplify conditional statements on 2024-12-17 14:22:30 -->
