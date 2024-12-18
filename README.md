@@ -430,3 +430,4 @@ This project is licensed under the MIT License.
 <!-- Commit 29: docs: Add API documentation on 2024-12-13 13:59:43 -->
 <!-- Commit 31: feat: Integrate new data source on 2024-12-16 12:52:42 -->
 <!-- Commit 32: chore: Upgrade Python version on 2024-12-16 15:10:12 -->
+<!-- Commit 33: refactor: Simplify conditional statements on 2024-12-18 13:23:28 -->
