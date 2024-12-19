@@ -765,3 +765,4 @@ This project is licensed under the MIT License.
 <!-- Commit 31: refactor: Simplify conditional statements on 2024-12-17 14:22:30 -->
 <!-- Commit 32: refactor: Improve code readability and structure on 2024-12-18 12:18:52 -->
 <!-- Commit 33: chore: Upgrade Python version on 2024-12-19 15:27:21 -->
+<!-- Commit 34: style: Format code according to PEP8 on 2024-12-19 09:14:29 -->
