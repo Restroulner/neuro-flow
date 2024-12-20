@@ -1035,3 +1035,4 @@ This project is licensed under the MIT License.
 <!-- Commit 28: docs: Add API documentation on 2024-12-16 16:37:59 -->
 <!-- Commit 29: docs: Add API documentation on 2024-12-17 09:03:16 -->
 <!-- Commit 31: test: Fix broken tests on 2024-12-19 11:08:09 -->
+<!-- Commit 32: perf: Parallelize computation on 2024-12-20 14:24:05 -->
