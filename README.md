@@ -68,3 +68,4 @@ This project is licensed under the MIT License.
 <!-- Commit 48: test: Fix broken tests on 2024-12-13 12:02:05 -->
 <!-- Commit 49: test: Fix broken tests on 2024-12-16 16:51:42 -->
 <!-- Commit 51: test: Fix broken tests on 2024-12-18 14:50:48 -->
+<!-- Commit 52: fix: Correct off-by-one error in indexing on 2024-12-20 10:41:34 -->
