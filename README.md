@@ -767,3 +767,4 @@ This project is licensed under the MIT License.
 <!-- Commit 33: chore: Upgrade Python version on 2024-12-19 15:27:21 -->
 <!-- Commit 34: style: Format code according to PEP8 on 2024-12-19 09:14:29 -->
 <!-- Commit 36: fix: Handle edge cases in input validation on 2024-12-24 16:41:16 -->
+<!-- Commit 37: fix: Correct off-by-one error in indexing on 2024-12-26 12:31:37 -->
