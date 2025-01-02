@@ -442,3 +442,4 @@ This project is licensed under the MIT License.
 <!-- Commit 44: fix: Handle edge cases in input validation on 2024-12-27 12:15:06 -->
 <!-- Commit 46: feat: Integrate new data source on 2024-12-30 11:12:07 -->
 <!-- Commit 47: refactor: Improve code readability and structure on 2024-12-31 17:15:44 -->
+<!-- Commit 48: refactor: Extract common logic into helper function on 2025-01-02 16:45:27 -->
