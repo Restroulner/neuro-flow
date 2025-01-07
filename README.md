@@ -77,3 +77,4 @@ This project is licensed under the MIT License.
 <!-- Commit 59: fix: Resolve bug in model training loop on 2025-01-02 12:06:35 -->
 <!-- Commit 61: perf: Parallelize computation on 2025-01-03 11:34:23 -->
 <!-- Commit 62: style: Format code according to PEP8 on 2025-01-06 15:35:29 -->
+<!-- Commit 63: test: Add integration tests on 2025-01-07 12:55:45 -->
