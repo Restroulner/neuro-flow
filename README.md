@@ -775,3 +775,4 @@ This project is licensed under the MIT License.
 <!-- Commit 43: style: Clean up whitespace on 2025-01-06 11:56:04 -->
 <!-- Commit 44: docs: Generate Sphinx documentation on 2025-01-06 13:04:37 -->
 <!-- Commit 46: test: Improve test coverage on 2025-01-08 17:56:23 -->
+<!-- Commit 47: docs: Update README with usage examples on 2025-01-08 09:54:27 -->
