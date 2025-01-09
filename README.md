@@ -78,3 +78,4 @@ This project is licensed under the MIT License.
 <!-- Commit 61: perf: Parallelize computation on 2025-01-03 11:34:23 -->
 <!-- Commit 62: style: Format code according to PEP8 on 2025-01-06 15:35:29 -->
 <!-- Commit 63: test: Add integration tests on 2025-01-07 12:55:45 -->
+<!-- Commit 64: chore: Upgrade Python version on 2025-01-09 16:11:21 -->
