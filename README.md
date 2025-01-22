@@ -88,3 +88,4 @@ This project is licensed under the MIT License.
 <!-- Commit 73: chore: Automate release process on 2025-01-20 09:51:56 -->
 <!-- Commit 74: fix: Handle edge cases in input validation on 2025-01-20 17:15:13 -->
 <!-- Commit 76: refactor: Simplify conditional statements on 2025-01-21 15:02:57 -->
+<!-- Commit 77: docs: Update README with usage examples on 2025-01-22 10:57:28 -->
