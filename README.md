@@ -456,3 +456,4 @@ This project is licensed under the MIT License.
 <!-- Commit 62: style: Format code according to PEP8 on 2025-01-20 14:43:35 -->
 <!-- Commit 63: test: Fix broken tests on 2025-01-20 13:38:12 -->
 <!-- Commit 64: refactor: Extract common logic into helper function on 2025-01-20 17:40:10 -->
+<!-- Commit 66: refactor: Improve code readability and structure on 2025-01-22 16:29:39 -->
