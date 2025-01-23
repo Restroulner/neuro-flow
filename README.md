@@ -90,3 +90,4 @@ This project is licensed under the MIT License.
 <!-- Commit 76: refactor: Simplify conditional statements on 2025-01-21 15:02:57 -->
 <!-- Commit 77: docs: Update README with usage examples on 2025-01-22 10:57:28 -->
 <!-- Commit 78: fix: Handle edge cases in input validation on 2025-01-22 12:45:01 -->
+<!-- Commit 79: test: Improve test coverage on 2025-01-23 17:55:22 -->
