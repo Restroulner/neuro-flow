@@ -465,3 +465,4 @@ This project is licensed under the MIT License.
 <!-- Commit 73: feat: Integrate new data source on 2025-01-29 10:58:59 -->
 <!-- Commit 74: feat: Implement new evaluation metric on 2025-01-31 14:58:58 -->
 <!-- Commit 76: refactor: Simplify conditional statements on 2025-02-04 15:40:58 -->
+<!-- Commit 77: fix: Correct off-by-one error in indexing on 2025-02-05 16:25:09 -->
