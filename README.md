@@ -469,3 +469,4 @@ This project is licensed under the MIT License.
 <!-- Commit 78: perf: Parallelize computation on 2025-02-06 10:45:00 -->
 <!-- Commit 79: style: Format code according to PEP8 on 2025-02-06 13:23:57 -->
 <!-- Commit 81: perf: Parallelize computation on 2025-02-11 13:25:57 -->
+<!-- Commit 82: refactor: Simplify conditional statements on 2025-02-12 15:38:48 -->
