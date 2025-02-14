@@ -1071,3 +1071,4 @@ This project is licensed under the MIT License.
 <!-- Commit 73: perf: Optimize data loading performance on 2025-02-10 13:31:36 -->
 <!-- Commit 74: chore: Upgrade Python version on 2025-02-11 13:32:16 -->
 <!-- Commit 76: style: Format code according to PEP8 on 2025-02-13 09:27:15 -->
+<!-- Commit 77: docs: Clarify installation instructions on 2025-02-14 15:12:17 -->
