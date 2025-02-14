@@ -789,3 +789,4 @@ This project is licensed under the MIT License.
 <!-- Commit 61: style: Format code according to PEP8 on 2025-02-13 09:59:43 -->
 <!-- Commit 62: feat: Implement new evaluation metric on 2025-02-13 12:13:33 -->
 <!-- Commit 63: fix: Handle edge cases in input validation on 2025-02-14 17:16:36 -->
+<!-- Commit 64: fix: Correct off-by-one error in indexing on 2025-02-14 11:12:48 -->
