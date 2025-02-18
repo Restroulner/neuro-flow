@@ -474,3 +474,4 @@ This project is licensed under the MIT License.
 <!-- Commit 84: refactor: Improve code readability and structure on 2025-02-14 17:00:56 -->
 <!-- Commit 86: perf: Parallelize computation on 2025-02-18 16:14:09 -->
 <!-- Commit 87: feat: Implement new evaluation metric on 2025-02-18 11:19:49 -->
+<!-- Commit 88: refactor: Simplify conditional statements on 2025-02-18 12:50:25 -->
