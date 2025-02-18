@@ -1074,3 +1074,4 @@ This project is licensed under the MIT License.
 <!-- Commit 77: docs: Clarify installation instructions on 2025-02-14 15:12:17 -->
 <!-- Commit 78: refactor: Simplify conditional statements on 2025-02-14 17:20:06 -->
 <!-- Commit 79: test: Add integration tests on 2025-02-17 11:31:46 -->
+<!-- Commit 81: refactor: Simplify conditional statements on 2025-02-18 09:55:13 -->
