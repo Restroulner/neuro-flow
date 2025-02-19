@@ -475,3 +475,4 @@ This project is licensed under the MIT License.
 <!-- Commit 86: perf: Parallelize computation on 2025-02-18 16:14:09 -->
 <!-- Commit 87: feat: Implement new evaluation metric on 2025-02-18 11:19:49 -->
 <!-- Commit 88: refactor: Simplify conditional statements on 2025-02-18 12:50:25 -->
+<!-- Commit 89: fix: Correct off-by-one error in indexing on 2025-02-19 10:09:06 -->
