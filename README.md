@@ -477,3 +477,4 @@ This project is licensed under the MIT License.
 <!-- Commit 88: refactor: Simplify conditional statements on 2025-02-18 12:50:25 -->
 <!-- Commit 89: fix: Correct off-by-one error in indexing on 2025-02-19 10:09:06 -->
 <!-- Commit 91: refactor: Extract common logic into helper function on 2025-02-20 11:48:10 -->
+<!-- Commit 92: docs: Update README with usage examples on 2025-02-20 10:11:09 -->
