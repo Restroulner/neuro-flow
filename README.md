@@ -480,3 +480,4 @@ This project is licensed under the MIT License.
 <!-- Commit 92: docs: Update README with usage examples on 2025-02-20 10:11:09 -->
 <!-- Commit 93: test: Fix broken tests on 2025-02-24 15:30:37 -->
 <!-- Commit 94: perf: Optimize data loading performance on 2025-02-24 16:56:06 -->
+<!-- Commit 96: docs: Update README with usage examples on 2025-02-26 12:14:27 -->
