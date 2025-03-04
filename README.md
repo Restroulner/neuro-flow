@@ -800,3 +800,4 @@ This project is licensed under the MIT License.
 <!-- Commit 74: feat: Add support for new model architecture on 2025-02-25 13:49:23 -->
 <!-- Commit 76: test: Improve test coverage on 2025-02-28 10:22:55 -->
 <!-- Commit 77: chore: Update dependencies on 2025-03-04 15:57:38 -->
+<!-- Commit 78: fix: Handle edge cases in input validation on 2025-03-04 14:13:57 -->
