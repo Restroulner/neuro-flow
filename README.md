@@ -802,3 +802,4 @@ This project is licensed under the MIT License.
 <!-- Commit 77: chore: Update dependencies on 2025-03-04 15:57:38 -->
 <!-- Commit 78: fix: Handle edge cases in input validation on 2025-03-04 14:13:57 -->
 <!-- Commit 79: style: Format code according to PEP8 on 2025-03-05 09:41:26 -->
+<!-- Commit 81: docs: Clarify installation instructions on 2025-03-07 15:27:04 -->
