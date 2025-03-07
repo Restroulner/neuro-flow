@@ -804,3 +804,4 @@ This project is licensed under the MIT License.
 <!-- Commit 79: style: Format code according to PEP8 on 2025-03-05 09:41:26 -->
 <!-- Commit 81: docs: Clarify installation instructions on 2025-03-07 15:27:04 -->
 <!-- Commit 82: feat: Add support for new model architecture on 2025-03-07 12:13:14 -->
+<!-- Commit 83: refactor: Improve code readability and structure on 2025-03-07 11:13:16 -->
