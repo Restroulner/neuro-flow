@@ -1090,3 +1090,4 @@ This project is licensed under the MIT License.
 <!-- Commit 97: chore: Configure CI/CD pipeline on 2025-03-10 15:26:56 -->
 <!-- Commit 98: feat: Add new feature for data processing on 2025-03-10 10:47:09 -->
 <!-- Commit 99: style: Clean up whitespace on 2025-03-12 17:16:10 -->
+<!-- Commit 101: docs: Update README with usage examples on 2025-03-13 17:00:04 -->
