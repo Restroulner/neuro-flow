@@ -124,3 +124,4 @@ This project is licensed under the MIT License.
 <!-- Commit 118: feat: Implement new evaluation metric on 2025-03-13 14:41:06 -->
 <!-- Commit 119: test: Improve test coverage on 2025-03-13 13:39:45 -->
 <!-- Commit 121: chore: Upgrade Python version on 2025-03-14 13:16:42 -->
+<!-- Commit 122: docs: Add API documentation on 2025-03-14 13:21:28 -->
