@@ -1093,3 +1093,4 @@ This project is licensed under the MIT License.
 <!-- Commit 101: docs: Update README with usage examples on 2025-03-13 17:00:04 -->
 <!-- Commit 102: perf: Reduce memory footprint on 2025-03-13 10:26:56 -->
 <!-- Commit 103: refactor: Decouple modules on 2025-03-13 10:57:17 -->
+<!-- Commit 104: test: Add integration tests on 2025-03-14 10:30:59 -->
