@@ -491,3 +491,4 @@ This project is licensed under the MIT License.
 <!-- Commit 106: refactor: Decouple modules on 2025-03-12 16:09:16 -->
 <!-- Commit 107: refactor: Decouple modules on 2025-03-14 09:58:56 -->
 <!-- Commit 108: chore: Automate release process on 2025-03-14 09:36:51 -->
+<!-- Commit 109: refactor: Extract common logic into helper function on 2025-03-17 15:00:08 -->
