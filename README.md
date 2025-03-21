@@ -128,3 +128,4 @@ This project is licensed under the MIT License.
 <!-- Commit 123: feat: Add support for new model architecture on 2025-03-18 10:39:57 -->
 <!-- Commit 124: refactor: Decouple modules on 2025-03-19 12:03:23 -->
 <!-- Commit 126: test: Add unit tests for new module on 2025-03-20 14:41:25 -->
+<!-- Commit 127: fix: Resolve bug in model training loop on 2025-03-21 09:33:34 -->
