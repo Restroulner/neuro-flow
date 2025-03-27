@@ -1104,3 +1104,4 @@ This project is licensed under the MIT License.
 <!-- Commit 114: docs: Generate Sphinx documentation on 2025-03-25 14:48:35 -->
 <!-- Commit 116: docs: Generate Sphinx documentation on 2025-03-26 14:16:43 -->
 <!-- Commit 117: refactor: Extract common logic into helper function on 2025-03-27 13:43:50 -->
+<!-- Commit 118: fix: Handle edge cases in input validation on 2025-03-27 13:07:15 -->
