@@ -136,3 +136,4 @@ This project is licensed under the MIT License.
 <!-- Commit 133: refactor: Simplify conditional statements on 2025-03-26 09:14:03 -->
 <!-- Commit 134: test: Fix broken tests on 2025-03-27 14:45:24 -->
 <!-- Commit 136: chore: Update dependencies on 2025-03-27 15:33:25 -->
+<!-- Commit 137: docs: Clarify installation instructions on 2025-03-28 15:25:20 -->
