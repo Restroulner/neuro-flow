@@ -1109,3 +1109,4 @@ This project is licensed under the MIT License.
 <!-- Commit 121: docs: Update README with usage examples on 2025-03-31 13:35:33 -->
 <!-- Commit 122: feat: Add support for new model architecture on 2025-03-31 12:00:24 -->
 <!-- Commit 123: test: Add unit tests for new module on 2025-03-31 13:05:42 -->
+<!-- Commit 124: test: Improve test coverage on 2025-04-01 17:46:52 -->
