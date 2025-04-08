@@ -1113,3 +1113,4 @@ This project is licensed under the MIT License.
 <!-- Commit 126: refactor: Simplify conditional statements on 2025-04-02 16:11:34 -->
 <!-- Commit 127: docs: Update README with usage examples on 2025-04-04 14:51:58 -->
 <!-- Commit 128: fix: Correct off-by-one error in indexing on 2025-04-07 17:42:30 -->
+<!-- Commit 129: test: Add unit tests for new module on 2025-04-08 10:59:12 -->
