@@ -1124,3 +1124,4 @@ This project is licensed under the MIT License.
 <!-- Commit 139: test: Add integration tests on 2025-04-11 15:07:25 -->
 <!-- Commit 141: docs: Update README with usage examples on 2025-04-14 11:16:04 -->
 <!-- Commit 142: docs: Add API documentation on 2025-04-14 14:39:28 -->
+<!-- Commit 143: test: Fix broken tests on 2025-04-14 13:15:52 -->
