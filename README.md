@@ -143,3 +143,4 @@ This project is licensed under the MIT License.
 <!-- Commit 142: test: Fix broken tests on 2025-04-02 10:52:33 -->
 <!-- Commit 143: feat: Add support for new model architecture on 2025-04-04 11:37:19 -->
 <!-- Commit 144: refactor: Simplify conditional statements on 2025-04-10 14:12:45 -->
+<!-- Commit 146: fix: Handle edge cases in input validation on 2025-04-14 16:58:24 -->
