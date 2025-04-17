@@ -147,3 +147,4 @@ This project is licensed under the MIT License.
 <!-- Commit 147: style: Adhere to linter rules on 2025-04-16 15:35:26 -->
 <!-- Commit 148: style: Format code according to PEP8 on 2025-04-16 14:01:41 -->
 <!-- Commit 149: chore: Upgrade Python version on 2025-04-16 10:51:27 -->
+<!-- Commit 151: docs: Update README with usage examples on 2025-04-17 13:53:13 -->
