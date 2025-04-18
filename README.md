@@ -150,3 +150,4 @@ This project is licensed under the MIT License.
 <!-- Commit 151: docs: Update README with usage examples on 2025-04-17 13:53:13 -->
 <!-- Commit 152: feat: Add support for new model architecture on 2025-04-17 12:32:34 -->
 <!-- Commit 153: fix: Prevent potential race condition on 2025-04-17 09:24:56 -->
+<!-- Commit 154: test: Fix broken tests on 2025-04-18 09:34:18 -->
