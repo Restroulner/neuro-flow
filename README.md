@@ -153,3 +153,4 @@ This project is licensed under the MIT License.
 <!-- Commit 154: test: Fix broken tests on 2025-04-18 09:34:18 -->
 <!-- Commit 156: docs: Update README with usage examples on 2025-04-21 17:45:10 -->
 <!-- Commit 157: perf: Reduce memory footprint on 2025-04-22 11:12:43 -->
+<!-- Commit 158: perf: Parallelize computation on 2025-04-23 14:25:47 -->
