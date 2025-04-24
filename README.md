@@ -835,3 +835,4 @@ This project is licensed under the MIT License.
 <!-- Commit 118: docs: Clarify installation instructions on 2025-04-24 13:38:17 -->
 <!-- Commit 119: refactor: Improve code readability and structure on 2025-04-24 15:22:12 -->
 <!-- Commit 121: chore: Update dependencies on 2025-04-24 13:54:54 -->
+<!-- Commit 122: test: Improve test coverage on 2025-04-24 09:36:48 -->
