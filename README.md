@@ -513,3 +513,4 @@ This project is licensed under the MIT License.
 <!-- Commit 133: perf: Optimize data loading performance on 2025-04-17 14:08:37 -->
 <!-- Commit 134: feat: Integrate new data source on 2025-04-22 13:53:44 -->
 <!-- Commit 136: perf: Optimize data loading performance on 2025-04-23 15:06:38 -->
+<!-- Commit 137: docs: Add API documentation on 2025-04-24 11:26:35 -->
