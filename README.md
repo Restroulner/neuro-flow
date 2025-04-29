@@ -159,3 +159,4 @@ This project is licensed under the MIT License.
 <!-- Commit 162: style: Clean up whitespace on 2025-04-25 10:48:25 -->
 <!-- Commit 163: perf: Optimize data loading performance on 2025-04-28 13:16:40 -->
 <!-- Commit 164: test: Add unit tests for new module on 2025-04-28 11:09:04 -->
+<!-- Commit 166: docs: Update README with usage examples on 2025-04-29 17:42:26 -->
