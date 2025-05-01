@@ -164,3 +164,4 @@ This project is licensed under the MIT License.
 <!-- Commit 168: feat: Add support for new model architecture on 2025-04-30 17:20:58 -->
 <!-- Commit 169: style: Adhere to linter rules on 2025-05-01 09:46:20 -->
 <!-- Commit 171: test: Add integration tests on 2025-05-01 11:49:28 -->
+<!-- Commit 172: fix: Correct off-by-one error in indexing on 2025-05-01 17:47:55 -->
