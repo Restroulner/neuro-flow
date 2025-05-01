@@ -518,3 +518,4 @@ This project is licensed under the MIT License.
 <!-- Commit 139: chore: Automate release process on 2025-04-25 09:33:24 -->
 <!-- Commit 141: perf: Parallelize computation on 2025-04-30 13:49:49 -->
 <!-- Commit 142: fix: Prevent potential race condition on 2025-04-30 17:27:53 -->
+<!-- Commit 143: fix: Correct off-by-one error in indexing on 2025-05-01 09:39:56 -->
