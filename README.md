@@ -841,3 +841,4 @@ This project is licensed under the MIT License.
 <!-- Commit 126: perf: Reduce memory footprint on 2025-05-05 12:51:22 -->
 <!-- Commit 127: docs: Add API documentation on 2025-05-05 14:16:08 -->
 <!-- Commit 128: refactor: Simplify conditional statements on 2025-05-05 11:52:36 -->
+<!-- Commit 129: feat: Add support for new model architecture on 2025-05-06 15:47:36 -->
