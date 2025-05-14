@@ -845,3 +845,4 @@ This project is licensed under the MIT License.
 <!-- Commit 131: test: Add unit tests for new module on 2025-05-07 17:06:01 -->
 <!-- Commit 132: chore: Update dependencies on 2025-05-09 17:29:18 -->
 <!-- Commit 133: feat: Implement new evaluation metric on 2025-05-12 13:54:46 -->
+<!-- Commit 134: docs: Clarify installation instructions on 2025-05-14 10:11:00 -->
