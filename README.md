@@ -529,3 +529,4 @@ This project is licensed under the MIT License.
 <!-- Commit 153: style: Format code according to PEP8 on 2025-05-06 10:23:14 -->
 <!-- Commit 154: chore: Configure CI/CD pipeline on 2025-05-08 13:26:58 -->
 <!-- Commit 156: docs: Update README with usage examples on 2025-05-14 16:16:24 -->
+<!-- Commit 157: fix: Resolve bug in model training loop on 2025-05-15 13:52:37 -->
