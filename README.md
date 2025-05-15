@@ -530,3 +530,4 @@ This project is licensed under the MIT License.
 <!-- Commit 154: chore: Configure CI/CD pipeline on 2025-05-08 13:26:58 -->
 <!-- Commit 156: docs: Update README with usage examples on 2025-05-14 16:16:24 -->
 <!-- Commit 157: fix: Resolve bug in model training loop on 2025-05-15 13:52:37 -->
+<!-- Commit 158: fix: Handle edge cases in input validation on 2025-05-15 09:28:50 -->
