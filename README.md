@@ -174,3 +174,4 @@ This project is licensed under the MIT License.
 <!-- Commit 181: fix: Correct off-by-one error in indexing on 2025-05-13 15:53:00 -->
 <!-- Commit 182: style: Clean up whitespace on 2025-05-13 10:18:34 -->
 <!-- Commit 183: style: Format code according to PEP8 on 2025-05-16 15:30:20 -->
+<!-- Commit 184: docs: Generate Sphinx documentation on 2025-05-16 10:03:15 -->
