@@ -176,3 +176,4 @@ This project is licensed under the MIT License.
 <!-- Commit 183: style: Format code according to PEP8 on 2025-05-16 15:30:20 -->
 <!-- Commit 184: docs: Generate Sphinx documentation on 2025-05-16 10:03:15 -->
 <!-- Commit 186: style: Adhere to linter rules on 2025-05-20 13:23:16 -->
+<!-- Commit 187: style: Clean up whitespace on 2025-05-21 11:12:43 -->
