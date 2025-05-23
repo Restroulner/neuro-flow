@@ -534,3 +534,4 @@ This project is licensed under the MIT License.
 <!-- Commit 159: feat: Add support for new model architecture on 2025-05-16 09:20:00 -->
 <!-- Commit 161: chore: Update dependencies on 2025-05-19 13:33:48 -->
 <!-- Commit 162: chore: Configure CI/CD pipeline on 2025-05-23 14:40:00 -->
+<!-- Commit 163: docs: Add API documentation on 2025-05-23 13:53:05 -->
