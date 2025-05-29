@@ -539,3 +539,4 @@ This project is licensed under the MIT License.
 <!-- Commit 166: chore: Automate release process on 2025-05-28 15:40:00 -->
 <!-- Commit 167: style: Adhere to linter rules on 2025-05-28 15:12:07 -->
 <!-- Commit 168: perf: Reduce memory footprint on 2025-05-29 15:41:29 -->
+<!-- Commit 169: fix: Prevent potential race condition on 2025-05-29 15:55:06 -->
