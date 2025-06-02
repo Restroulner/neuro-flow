@@ -542,3 +542,4 @@ This project is licensed under the MIT License.
 <!-- Commit 169: fix: Prevent potential race condition on 2025-05-29 15:55:06 -->
 <!-- Commit 171: refactor: Improve code readability and structure on 2025-06-02 11:29:47 -->
 <!-- Commit 172: chore: Configure CI/CD pipeline on 2025-06-02 13:29:11 -->
+<!-- Commit 173: fix: Prevent potential race condition on 2025-06-02 16:24:04 -->
