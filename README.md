@@ -855,3 +855,4 @@ This project is licensed under the MIT License.
 <!-- Commit 143: perf: Reduce memory footprint on 2025-05-27 16:07:39 -->
 <!-- Commit 144: fix: Resolve bug in model training loop on 2025-05-28 10:20:38 -->
 <!-- Commit 146: test: Improve test coverage on 2025-06-03 15:48:52 -->
+<!-- Commit 147: test: Add integration tests on 2025-06-04 13:38:37 -->
