@@ -1165,3 +1165,4 @@ This project is licensed under the MIT License.
 <!-- Commit 191: test: Improve test coverage on 2025-06-03 11:38:55 -->
 <!-- Commit 192: refactor: Improve code readability and structure on 2025-06-04 09:52:08 -->
 <!-- Commit 193: fix: Resolve bug in model training loop on 2025-06-05 12:17:19 -->
+<!-- Commit 194: docs: Add API documentation on 2025-06-06 15:47:12 -->
