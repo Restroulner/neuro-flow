@@ -193,3 +193,4 @@ This project is licensed under the MIT License.
 <!-- Commit 204: perf: Reduce memory footprint on 2025-06-09 15:42:53 -->
 <!-- Commit 206: feat: Add support for new model architecture on 2025-06-11 13:52:29 -->
 <!-- Commit 207: feat: Add support for new model architecture on 2025-06-16 09:24:47 -->
+<!-- Commit 208: refactor: Extract common logic into helper function on 2025-06-16 09:28:30 -->
