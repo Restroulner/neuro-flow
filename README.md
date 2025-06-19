@@ -196,3 +196,4 @@ This project is licensed under the MIT License.
 <!-- Commit 208: refactor: Extract common logic into helper function on 2025-06-16 09:28:30 -->
 <!-- Commit 209: chore: Update dependencies on 2025-06-17 17:47:33 -->
 <!-- Commit 211: style: Format code according to PEP8 on 2025-06-18 12:16:13 -->
+<!-- Commit 212: test: Improve test coverage on 2025-06-19 13:38:40 -->
