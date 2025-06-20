@@ -199,3 +199,4 @@ This project is licensed under the MIT License.
 <!-- Commit 212: test: Improve test coverage on 2025-06-19 13:38:40 -->
 <!-- Commit 213: fix: Handle edge cases in input validation on 2025-06-19 13:18:08 -->
 <!-- Commit 214: fix: Prevent potential race condition on 2025-06-19 13:46:17 -->
+<!-- Commit 216: fix: Correct off-by-one error in indexing on 2025-06-20 09:12:10 -->
