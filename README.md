@@ -555,3 +555,4 @@ This project is licensed under the MIT License.
 <!-- Commit 186: feat: Integrate new data source on 2025-06-19 10:13:05 -->
 <!-- Commit 187: fix: Resolve bug in model training loop on 2025-06-20 09:37:05 -->
 <!-- Commit 188: docs: Update README with usage examples on 2025-06-23 14:29:00 -->
+<!-- Commit 189: fix: Handle edge cases in input validation on 2025-06-23 09:30:24 -->
