@@ -1176,3 +1176,4 @@ This project is licensed under the MIT License.
 <!-- Commit 204: refactor: Decouple modules on 2025-06-18 14:26:14 -->
 <!-- Commit 206: chore: Automate release process on 2025-06-19 09:28:14 -->
 <!-- Commit 207: style: Adhere to linter rules on 2025-06-19 12:36:01 -->
+<!-- Commit 208: test: Add integration tests on 2025-06-26 10:31:26 -->
