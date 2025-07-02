@@ -209,3 +209,4 @@ This project is licensed under the MIT License.
 <!-- Commit 224: docs: Update README with usage examples on 2025-06-30 15:21:22 -->
 <!-- Commit 226: refactor: Extract common logic into helper function on 2025-07-01 09:21:28 -->
 <!-- Commit 227: refactor: Extract common logic into helper function on 2025-07-01 09:30:10 -->
+<!-- Commit 228: docs: Generate Sphinx documentation on 2025-07-02 15:26:36 -->
