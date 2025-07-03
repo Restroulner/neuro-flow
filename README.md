@@ -869,3 +869,4 @@ This project is licensed under the MIT License.
 <!-- Commit 161: style: Format code according to PEP8 on 2025-06-20 16:26:46 -->
 <!-- Commit 162: perf: Parallelize computation on 2025-06-30 14:18:22 -->
 <!-- Commit 163: feat: Add support for new model architecture on 2025-07-02 16:06:46 -->
+<!-- Commit 164: refactor: Extract common logic into helper function on 2025-07-03 15:06:59 -->
