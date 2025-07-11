@@ -216,3 +216,4 @@ This project is licensed under the MIT License.
 <!-- Commit 233: test: Add unit tests for new module on 2025-07-08 17:02:11 -->
 <!-- Commit 234: fix: Resolve bug in model training loop on 2025-07-10 10:29:37 -->
 <!-- Commit 236: refactor: Decouple modules on 2025-07-11 09:49:16 -->
+<!-- Commit 237: docs: Generate Sphinx documentation on 2025-07-11 11:40:47 -->
