@@ -571,3 +571,4 @@ This project is licensed under the MIT License.
 <!-- Commit 206: perf: Optimize data loading performance on 2025-07-23 15:24:28 -->
 <!-- Commit 207: docs: Update README with usage examples on 2025-07-24 13:31:46 -->
 <!-- Commit 208: style: Clean up whitespace on 2025-07-24 16:13:16 -->
+<!-- Commit 209: refactor: Simplify conditional statements on 2025-07-25 09:54:29 -->
