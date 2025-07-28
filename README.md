@@ -224,3 +224,4 @@ This project is licensed under the MIT License.
 <!-- Commit 243: test: Add integration tests on 2025-07-24 15:28:35 -->
 <!-- Commit 244: refactor: Simplify conditional statements on 2025-07-25 13:40:09 -->
 <!-- Commit 246: test: Fix broken tests on 2025-07-28 15:28:25 -->
+<!-- Commit 247: docs: Add API documentation on 2025-07-28 12:32:41 -->
