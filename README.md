@@ -227,3 +227,4 @@ This project is licensed under the MIT License.
 <!-- Commit 247: docs: Add API documentation on 2025-07-28 12:32:41 -->
 <!-- Commit 248: test: Add integration tests on 2025-07-28 12:59:14 -->
 <!-- Commit 249: perf: Optimize data loading performance on 2025-07-29 17:14:00 -->
+<!-- Commit 251: feat: Add support for new model architecture on 2025-08-01 13:18:58 -->
