@@ -1202,3 +1202,4 @@ This project is licensed under the MIT License.
 <!-- Commit 237: feat: Add support for new model architecture on 2025-07-31 10:07:58 -->
 <!-- Commit 238: chore: Update dependencies on 2025-07-31 13:05:38 -->
 <!-- Commit 239: docs: Update README with usage examples on 2025-08-04 16:08:20 -->
+<!-- Commit 241: refactor: Decouple modules on 2025-08-04 12:45:25 -->
