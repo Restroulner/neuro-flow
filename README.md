@@ -1206,3 +1206,4 @@ This project is licensed under the MIT License.
 <!-- Commit 242: fix: Correct off-by-one error in indexing on 2025-08-05 16:49:42 -->
 <!-- Commit 243: feat: Add support for new model architecture on 2025-08-05 14:38:29 -->
 <!-- Commit 244: refactor: Improve code readability and structure on 2025-08-05 11:21:40 -->
+<!-- Commit 246: test: Add integration tests on 2025-08-06 11:17:24 -->
