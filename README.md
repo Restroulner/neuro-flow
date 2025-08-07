@@ -580,3 +580,4 @@ This project is licensed under the MIT License.
 <!-- Commit 217: fix: Handle edge cases in input validation on 2025-08-01 11:05:48 -->
 <!-- Commit 218: style: Adhere to linter rules on 2025-08-04 10:37:13 -->
 <!-- Commit 219: feat: Implement new evaluation metric on 2025-08-05 15:56:24 -->
+<!-- Commit 221: docs: Generate Sphinx documentation on 2025-08-07 11:17:20 -->
