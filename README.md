@@ -1208,3 +1208,4 @@ This project is licensed under the MIT License.
 <!-- Commit 244: refactor: Improve code readability and structure on 2025-08-05 11:21:40 -->
 <!-- Commit 246: test: Add integration tests on 2025-08-06 11:17:24 -->
 <!-- Commit 247: refactor: Simplify conditional statements on 2025-08-07 14:02:46 -->
+<!-- Commit 248: docs: Add API documentation on 2025-08-08 11:44:13 -->
