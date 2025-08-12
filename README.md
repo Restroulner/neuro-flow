@@ -582,3 +582,4 @@ This project is licensed under the MIT License.
 <!-- Commit 219: feat: Implement new evaluation metric on 2025-08-05 15:56:24 -->
 <!-- Commit 221: docs: Generate Sphinx documentation on 2025-08-07 11:17:20 -->
 <!-- Commit 222: feat: Implement new evaluation metric on 2025-08-08 12:07:18 -->
+<!-- Commit 223: docs: Add API documentation on 2025-08-12 17:40:11 -->
