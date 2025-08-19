@@ -1218,3 +1218,4 @@ This project is licensed under the MIT License.
 <!-- Commit 257: style: Adhere to linter rules on 2025-08-15 10:17:13 -->
 <!-- Commit 258: docs: Update README with usage examples on 2025-08-15 09:46:49 -->
 <!-- Commit 259: chore: Upgrade Python version on 2025-08-18 15:53:49 -->
+<!-- Commit 261: fix: Handle edge cases in input validation on 2025-08-19 10:52:50 -->
