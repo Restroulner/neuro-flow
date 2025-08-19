@@ -587,3 +587,4 @@ This project is licensed under the MIT License.
 <!-- Commit 226: style: Adhere to linter rules on 2025-08-18 16:18:02 -->
 <!-- Commit 227: docs: Update README with usage examples on 2025-08-18 10:07:42 -->
 <!-- Commit 228: style: Clean up whitespace on 2025-08-18 15:03:14 -->
+<!-- Commit 229: fix: Resolve bug in model training loop on 2025-08-19 14:14:56 -->
