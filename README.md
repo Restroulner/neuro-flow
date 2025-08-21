@@ -239,3 +239,4 @@ This project is licensed under the MIT License.
 <!-- Commit 262: docs: Clarify installation instructions on 2025-08-14 15:12:58 -->
 <!-- Commit 263: docs: Add API documentation on 2025-08-19 12:34:35 -->
 <!-- Commit 264: test: Fix broken tests on 2025-08-19 17:59:28 -->
+<!-- Commit 266: docs: Clarify installation instructions on 2025-08-21 11:22:43 -->
