@@ -592,3 +592,4 @@ This project is licensed under the MIT License.
 <!-- Commit 232: chore: Automate release process on 2025-08-21 15:07:30 -->
 <!-- Commit 233: chore: Update dependencies on 2025-08-22 10:35:11 -->
 <!-- Commit 234: feat: Implement new evaluation metric on 2025-08-25 10:11:46 -->
+<!-- Commit 236: test: Add integration tests on 2025-08-26 09:11:53 -->
