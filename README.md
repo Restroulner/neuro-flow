@@ -897,3 +897,4 @@ This project is licensed under the MIT License.
 <!-- Commit 196: feat: Integrate new data source on 2025-08-26 13:18:21 -->
 <!-- Commit 197: fix: Resolve bug in model training loop on 2025-08-27 16:54:52 -->
 <!-- Commit 198: refactor: Improve code readability and structure on 2025-08-27 15:52:13 -->
+<!-- Commit 199: style: Format code according to PEP8 on 2025-09-01 14:58:15 -->
