@@ -248,3 +248,4 @@ This project is licensed under the MIT License.
 <!-- Commit 273: perf: Reduce memory footprint on 2025-08-27 09:18:26 -->
 <!-- Commit 274: style: Clean up whitespace on 2025-08-27 10:56:54 -->
 <!-- Commit 276: test: Add unit tests for new module on 2025-08-29 10:17:06 -->
+<!-- Commit 277: refactor: Extract common logic into helper function on 2025-09-02 12:48:07 -->
