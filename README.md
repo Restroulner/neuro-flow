@@ -596,3 +596,4 @@ This project is licensed under the MIT License.
 <!-- Commit 237: chore: Automate release process on 2025-08-27 15:54:35 -->
 <!-- Commit 238: perf: Reduce memory footprint on 2025-09-01 13:21:25 -->
 <!-- Commit 239: perf: Optimize data loading performance on 2025-09-02 13:40:21 -->
+<!-- Commit 241: feat: Add support for new model architecture on 2025-09-03 12:21:46 -->
