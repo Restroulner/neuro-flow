@@ -251,3 +251,4 @@ This project is licensed under the MIT License.
 <!-- Commit 277: refactor: Extract common logic into helper function on 2025-09-02 12:48:07 -->
 <!-- Commit 278: chore: Update dependencies on 2025-09-03 12:25:27 -->
 <!-- Commit 279: style: Clean up whitespace on 2025-09-03 10:52:38 -->
+<!-- Commit 281: refactor: Decouple modules on 2025-09-05 09:13:13 -->
