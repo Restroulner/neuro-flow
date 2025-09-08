@@ -253,3 +253,4 @@ This project is licensed under the MIT License.
 <!-- Commit 279: style: Clean up whitespace on 2025-09-03 10:52:38 -->
 <!-- Commit 281: refactor: Decouple modules on 2025-09-05 09:13:13 -->
 <!-- Commit 282: feat: Add support for new model architecture on 2025-09-05 09:34:11 -->
+<!-- Commit 283: fix: Resolve bug in model training loop on 2025-09-08 14:48:08 -->
