@@ -899,3 +899,4 @@ This project is licensed under the MIT License.
 <!-- Commit 198: refactor: Improve code readability and structure on 2025-08-27 15:52:13 -->
 <!-- Commit 199: style: Format code according to PEP8 on 2025-09-01 14:58:15 -->
 <!-- Commit 201: chore: Automate release process on 2025-09-04 14:38:28 -->
+<!-- Commit 202: test: Add integration tests on 2025-09-09 11:20:33 -->
