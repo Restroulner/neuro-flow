@@ -1234,3 +1234,4 @@ This project is licensed under the MIT License.
 <!-- Commit 277: style: Clean up whitespace on 2025-09-09 16:42:21 -->
 <!-- Commit 278: feat: Integrate new data source on 2025-09-09 14:43:48 -->
 <!-- Commit 279: feat: Add support for new model architecture on 2025-09-10 12:46:04 -->
+<!-- Commit 281: refactor: Decouple modules on 2025-09-17 09:20:26 -->
