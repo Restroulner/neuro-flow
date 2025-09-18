@@ -258,3 +258,4 @@ This project is licensed under the MIT License.
 <!-- Commit 286: perf: Optimize data loading performance on 2025-09-12 17:54:54 -->
 <!-- Commit 287: feat: Add support for new model architecture on 2025-09-16 12:51:41 -->
 <!-- Commit 288: fix: Correct off-by-one error in indexing on 2025-09-18 14:22:18 -->
+<!-- Commit 289: docs: Clarify installation instructions on 2025-09-18 09:37:10 -->
