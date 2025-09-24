@@ -260,3 +260,4 @@ This project is licensed under the MIT License.
 <!-- Commit 288: fix: Correct off-by-one error in indexing on 2025-09-18 14:22:18 -->
 <!-- Commit 289: docs: Clarify installation instructions on 2025-09-18 09:37:10 -->
 <!-- Commit 291: docs: Update README with usage examples on 2025-09-23 17:17:03 -->
+<!-- Commit 292: refactor: Simplify conditional statements on 2025-09-24 13:53:40 -->
