@@ -613,3 +613,4 @@ This project is licensed under the MIT License.
 <!-- Commit 258: perf: Reduce memory footprint on 2025-09-19 16:47:03 -->
 <!-- Commit 259: feat: Add support for new model architecture on 2025-09-19 16:45:15 -->
 <!-- Commit 261: perf: Parallelize computation on 2025-09-23 09:12:25 -->
+<!-- Commit 262: docs: Add API documentation on 2025-09-25 16:38:08 -->
