@@ -1239,3 +1239,4 @@ This project is licensed under the MIT License.
 <!-- Commit 283: perf: Optimize data loading performance on 2025-09-22 13:43:51 -->
 <!-- Commit 284: test: Add unit tests for new module on 2025-09-25 12:08:52 -->
 <!-- Commit 286: docs: Add API documentation on 2025-09-25 13:54:31 -->
+<!-- Commit 287: fix: Correct off-by-one error in indexing on 2025-09-29 15:19:38 -->
