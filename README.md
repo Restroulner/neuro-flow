@@ -268,3 +268,4 @@ This project is licensed under the MIT License.
 <!-- Commit 298: fix: Correct off-by-one error in indexing on 2025-10-01 13:50:24 -->
 <!-- Commit 299: refactor: Improve code readability and structure on 2025-10-02 12:58:34 -->
 <!-- Commit 301: refactor: Simplify conditional statements on 2025-10-03 10:40:07 -->
+<!-- Commit 302: fix: Prevent potential race condition on 2025-10-06 16:27:01 -->
