@@ -1246,3 +1246,4 @@ This project is licensed under the MIT License.
 <!-- Commit 292: test: Fix broken tests on 2025-10-03 16:55:02 -->
 <!-- Commit 293: fix: Resolve bug in model training loop on 2025-10-03 17:31:18 -->
 <!-- Commit 294: refactor: Improve code readability and structure on 2025-10-06 09:24:31 -->
+<!-- Commit 296: fix: Correct off-by-one error in indexing on 2025-10-06 13:28:37 -->
