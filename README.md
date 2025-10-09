@@ -276,3 +276,4 @@ This project is licensed under the MIT License.
 <!-- Commit 308: chore: Update dependencies on 2025-10-09 13:26:30 -->
 <!-- Commit 309: feat: Integrate new data source on 2025-10-09 15:16:22 -->
 <!-- Commit 311: feat: Implement new evaluation metric on 2025-10-09 13:15:46 -->
+<!-- Commit 312: refactor: Extract common logic into helper function on 2025-10-09 10:10:21 -->
