@@ -626,3 +626,4 @@ This project is licensed under the MIT License.
 <!-- Commit 274: test: Add unit tests for new module on 2025-10-15 09:05:55 -->
 <!-- Commit 276: fix: Correct off-by-one error in indexing on 2025-10-15 17:07:35 -->
 <!-- Commit 277: docs: Generate Sphinx documentation on 2025-10-15 09:38:04 -->
+<!-- Commit 278: docs: Add API documentation on 2025-10-15 11:23:26 -->
