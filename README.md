@@ -629,3 +629,4 @@ This project is licensed under the MIT License.
 <!-- Commit 278: docs: Add API documentation on 2025-10-15 11:23:26 -->
 <!-- Commit 279: perf: Reduce memory footprint on 2025-10-16 12:17:40 -->
 <!-- Commit 281: docs: Update README with usage examples on 2025-10-17 15:55:15 -->
+<!-- Commit 282: fix: Correct off-by-one error in indexing on 2025-10-17 13:57:56 -->
