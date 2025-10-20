@@ -631,3 +631,4 @@ This project is licensed under the MIT License.
 <!-- Commit 281: docs: Update README with usage examples on 2025-10-17 15:55:15 -->
 <!-- Commit 282: fix: Correct off-by-one error in indexing on 2025-10-17 13:57:56 -->
 <!-- Commit 283: feat: Integrate new data source on 2025-10-17 17:04:00 -->
+<!-- Commit 284: docs: Clarify installation instructions on 2025-10-20 13:22:51 -->
