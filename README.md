@@ -285,3 +285,4 @@ This project is licensed under the MIT License.
 <!-- Commit 319: style: Adhere to linter rules on 2025-10-17 10:03:36 -->
 <!-- Commit 321: perf: Optimize data loading performance on 2025-10-20 13:20:10 -->
 <!-- Commit 322: chore: Configure CI/CD pipeline on 2025-10-21 12:37:14 -->
+<!-- Commit 323: refactor: Improve code readability and structure on 2025-10-21 10:30:30 -->
