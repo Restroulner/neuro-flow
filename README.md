@@ -288,3 +288,4 @@ This project is licensed under the MIT License.
 <!-- Commit 323: refactor: Improve code readability and structure on 2025-10-21 10:30:30 -->
 <!-- Commit 324: chore: Automate release process on 2025-10-22 14:27:39 -->
 <!-- Commit 326: chore: Configure CI/CD pipeline on 2025-10-24 15:56:39 -->
+<!-- Commit 327: fix: Correct off-by-one error in indexing on 2025-10-27 09:39:05 -->
