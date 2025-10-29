@@ -290,3 +290,4 @@ This project is licensed under the MIT License.
 <!-- Commit 326: chore: Configure CI/CD pipeline on 2025-10-24 15:56:39 -->
 <!-- Commit 327: fix: Correct off-by-one error in indexing on 2025-10-27 09:39:05 -->
 <!-- Commit 328: feat: Add support for new model architecture on 2025-10-28 10:06:01 -->
+<!-- Commit 329: refactor: Improve code readability and structure on 2025-10-29 09:03:47 -->
