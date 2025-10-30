@@ -1270,3 +1270,4 @@ This project is licensed under the MIT License.
 <!-- Commit 322: docs: Add API documentation on 2025-10-28 14:12:20 -->
 <!-- Commit 323: chore: Upgrade Python version on 2025-10-28 10:55:19 -->
 <!-- Commit 324: test: Improve test coverage on 2025-10-29 13:48:35 -->
+<!-- Commit 326: test: Add integration tests on 2025-10-30 10:38:59 -->
