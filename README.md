@@ -291,3 +291,4 @@ This project is licensed under the MIT License.
 <!-- Commit 327: fix: Correct off-by-one error in indexing on 2025-10-27 09:39:05 -->
 <!-- Commit 328: feat: Add support for new model architecture on 2025-10-28 10:06:01 -->
 <!-- Commit 329: refactor: Improve code readability and structure on 2025-10-29 09:03:47 -->
+<!-- Commit 331: fix: Handle edge cases in input validation on 2025-11-03 14:51:22 -->
