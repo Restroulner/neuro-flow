@@ -292,3 +292,4 @@ This project is licensed under the MIT License.
 <!-- Commit 328: feat: Add support for new model architecture on 2025-10-28 10:06:01 -->
 <!-- Commit 329: refactor: Improve code readability and structure on 2025-10-29 09:03:47 -->
 <!-- Commit 331: fix: Handle edge cases in input validation on 2025-11-03 14:51:22 -->
+<!-- Commit 332: fix: Resolve bug in model training loop on 2025-11-04 13:09:14 -->
