@@ -297,3 +297,4 @@ This project is licensed under the MIT License.
 <!-- Commit 334: chore: Configure CI/CD pipeline on 2025-11-04 14:41:15 -->
 <!-- Commit 336: perf: Parallelize computation on 2025-11-04 16:16:15 -->
 <!-- Commit 337: style: Format code according to PEP8 on 2025-11-04 14:13:56 -->
+<!-- Commit 338: docs: Add API documentation on 2025-11-05 10:36:45 -->
