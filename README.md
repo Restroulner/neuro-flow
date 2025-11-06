@@ -933,3 +933,4 @@ This project is licensed under the MIT License.
 <!-- Commit 241: feat: Add support for new model architecture on 2025-11-03 11:00:51 -->
 <!-- Commit 242: refactor: Decouple modules on 2025-11-03 14:37:14 -->
 <!-- Commit 243: perf: Reduce memory footprint on 2025-11-06 11:15:29 -->
+<!-- Commit 244: docs: Generate Sphinx documentation on 2025-11-06 13:23:39 -->
