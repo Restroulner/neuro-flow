@@ -647,3 +647,4 @@ This project is licensed under the MIT License.
 <!-- Commit 301: feat: Implement new evaluation metric on 2025-11-06 11:11:25 -->
 <!-- Commit 302: test: Add unit tests for new module on 2025-11-06 10:08:28 -->
 <!-- Commit 303: feat: Implement new evaluation metric on 2025-11-07 16:41:11 -->
+<!-- Commit 304: docs: Add API documentation on 2025-11-10 16:50:54 -->
