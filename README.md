@@ -305,3 +305,4 @@ This project is licensed under the MIT License.
 <!-- Commit 344: perf: Reduce memory footprint on 2025-11-11 11:47:22 -->
 <!-- Commit 346: style: Format code according to PEP8 on 2025-11-11 16:37:22 -->
 <!-- Commit 347: docs: Clarify installation instructions on 2025-11-12 16:56:36 -->
+<!-- Commit 348: fix: Prevent potential race condition on 2025-11-12 10:28:20 -->
