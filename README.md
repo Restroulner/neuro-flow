@@ -1282,3 +1282,4 @@ This project is licensed under the MIT License.
 <!-- Commit 337: fix: Handle edge cases in input validation on 2025-11-11 12:00:23 -->
 <!-- Commit 338: feat: Add support for new model architecture on 2025-11-11 15:18:49 -->
 <!-- Commit 339: chore: Upgrade Python version on 2025-11-11 13:30:45 -->
+<!-- Commit 341: fix: Correct off-by-one error in indexing on 2025-11-13 09:01:49 -->
