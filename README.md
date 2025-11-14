@@ -649,3 +649,4 @@ This project is licensed under the MIT License.
 <!-- Commit 303: feat: Implement new evaluation metric on 2025-11-07 16:41:11 -->
 <!-- Commit 304: docs: Add API documentation on 2025-11-10 16:50:54 -->
 <!-- Commit 306: test: Fix broken tests on 2025-11-13 09:23:47 -->
+<!-- Commit 307: refactor: Extract common logic into helper function on 2025-11-14 11:41:30 -->
