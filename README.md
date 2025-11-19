@@ -652,3 +652,4 @@ This project is licensed under the MIT License.
 <!-- Commit 307: refactor: Extract common logic into helper function on 2025-11-14 11:41:30 -->
 <!-- Commit 308: test: Fix broken tests on 2025-11-14 14:53:01 -->
 <!-- Commit 309: perf: Parallelize computation on 2025-11-18 11:18:47 -->
+<!-- Commit 311: refactor: Improve code readability and structure on 2025-11-19 13:54:30 -->
