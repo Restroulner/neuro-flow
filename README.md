@@ -307,3 +307,4 @@ This project is licensed under the MIT License.
 <!-- Commit 347: docs: Clarify installation instructions on 2025-11-12 16:56:36 -->
 <!-- Commit 348: fix: Prevent potential race condition on 2025-11-12 10:28:20 -->
 <!-- Commit 349: perf: Reduce memory footprint on 2025-11-14 09:22:37 -->
+<!-- Commit 351: test: Improve test coverage on 2025-11-20 12:06:38 -->
