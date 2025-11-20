@@ -941,3 +941,4 @@ This project is licensed under the MIT License.
 <!-- Commit 251: feat: Integrate new data source on 2025-11-14 11:50:51 -->
 <!-- Commit 252: chore: Configure CI/CD pipeline on 2025-11-17 09:14:20 -->
 <!-- Commit 253: feat: Integrate new data source on 2025-11-17 13:26:20 -->
+<!-- Commit 254: fix: Correct off-by-one error in indexing on 2025-11-20 17:44:32 -->
