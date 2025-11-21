@@ -1291,3 +1291,4 @@ This project is licensed under the MIT License.
 <!-- Commit 348: chore: Automate release process on 2025-11-19 16:46:52 -->
 <!-- Commit 349: refactor: Extract common logic into helper function on 2025-11-19 14:57:48 -->
 <!-- Commit 351: refactor: Extract common logic into helper function on 2025-11-21 17:12:43 -->
+<!-- Commit 352: style: Format code according to PEP8 on 2025-11-21 17:48:19 -->
