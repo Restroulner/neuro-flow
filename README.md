@@ -943,3 +943,4 @@ This project is licensed under the MIT License.
 <!-- Commit 253: feat: Integrate new data source on 2025-11-17 13:26:20 -->
 <!-- Commit 254: fix: Correct off-by-one error in indexing on 2025-11-20 17:44:32 -->
 <!-- Commit 256: refactor: Simplify conditional statements on 2025-11-25 10:55:44 -->
+<!-- Commit 257: docs: Update README with usage examples on 2025-11-28 12:37:38 -->
