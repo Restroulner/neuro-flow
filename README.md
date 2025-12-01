@@ -944,3 +944,4 @@ This project is licensed under the MIT License.
 <!-- Commit 254: fix: Correct off-by-one error in indexing on 2025-11-20 17:44:32 -->
 <!-- Commit 256: refactor: Simplify conditional statements on 2025-11-25 10:55:44 -->
 <!-- Commit 257: docs: Update README with usage examples on 2025-11-28 12:37:38 -->
+<!-- Commit 258: fix: Correct off-by-one error in indexing on 2025-12-01 16:25:23 -->
