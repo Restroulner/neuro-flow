@@ -320,3 +320,4 @@ This project is licensed under the MIT License.
 <!-- Commit 363: refactor: Decouple modules on 2025-11-27 10:33:16 -->
 <!-- Commit 364: feat: Integrate new data source on 2025-12-01 14:02:13 -->
 <!-- Commit 366: feat: Add support for new model architecture on 2025-12-03 17:56:32 -->
+<!-- Commit 367: refactor: Improve code readability and structure on 2025-12-03 09:35:42 -->
