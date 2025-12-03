@@ -319,3 +319,4 @@ This project is licensed under the MIT License.
 <!-- Commit 362: test: Add unit tests for new module on 2025-11-26 10:55:08 -->
 <!-- Commit 363: refactor: Decouple modules on 2025-11-27 10:33:16 -->
 <!-- Commit 364: feat: Integrate new data source on 2025-12-01 14:02:13 -->
+<!-- Commit 366: feat: Add support for new model architecture on 2025-12-03 17:56:32 -->
