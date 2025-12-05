@@ -1297,3 +1297,4 @@ This project is licensed under the MIT License.
 <!-- Commit 356: fix: Prevent potential race condition on 2025-12-01 12:01:28 -->
 <!-- Commit 357: docs: Clarify installation instructions on 2025-12-02 12:08:55 -->
 <!-- Commit 358: refactor: Extract common logic into helper function on 2025-12-03 14:38:18 -->
+<!-- Commit 359: feat: Add support for new model architecture on 2025-12-05 13:05:45 -->
