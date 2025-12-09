@@ -1299,3 +1299,4 @@ This project is licensed under the MIT License.
 <!-- Commit 358: refactor: Extract common logic into helper function on 2025-12-03 14:38:18 -->
 <!-- Commit 359: feat: Add support for new model architecture on 2025-12-05 13:05:45 -->
 <!-- Commit 361: feat: Add support for new model architecture on 2025-12-09 17:27:45 -->
+<!-- Commit 362: test: Fix broken tests on 2025-12-09 17:14:40 -->
