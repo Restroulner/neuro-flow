@@ -1300,3 +1300,4 @@ This project is licensed under the MIT License.
 <!-- Commit 359: feat: Add support for new model architecture on 2025-12-05 13:05:45 -->
 <!-- Commit 361: feat: Add support for new model architecture on 2025-12-09 17:27:45 -->
 <!-- Commit 362: test: Fix broken tests on 2025-12-09 17:14:40 -->
+<!-- Commit 363: docs: Update README with usage examples on 2025-12-09 13:59:35 -->
