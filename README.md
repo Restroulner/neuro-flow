@@ -949,3 +949,4 @@ This project is licensed under the MIT License.
 <!-- Commit 261: refactor: Decouple modules on 2025-12-04 13:10:59 -->
 <!-- Commit 262: chore: Update dependencies on 2025-12-05 11:13:22 -->
 <!-- Commit 263: test: Fix broken tests on 2025-12-15 15:23:48 -->
+<!-- Commit 264: docs: Generate Sphinx documentation on 2025-12-15 11:46:11 -->
