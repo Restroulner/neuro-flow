@@ -673,3 +673,4 @@ This project is licensed under the MIT License.
 <!-- Commit 333: refactor: Simplify conditional statements on 2025-12-12 12:30:07 -->
 <!-- Commit 334: docs: Generate Sphinx documentation on 2025-12-15 15:32:38 -->
 <!-- Commit 336: refactor: Improve code readability and structure on 2025-12-16 15:27:21 -->
+<!-- Commit 337: docs: Update README with usage examples on 2025-12-18 13:57:59 -->
