@@ -1311,3 +1311,4 @@ This project is licensed under the MIT License.
 <!-- Commit 373: docs: Generate Sphinx documentation on 2025-12-22 11:06:36 -->
 <!-- Commit 374: docs: Update README with usage examples on 2025-12-22 12:34:22 -->
 <!-- Commit 376: style: Adhere to linter rules on 2025-12-24 15:41:49 -->
+<!-- Commit 377: fix: Resolve bug in model training loop on 2025-12-26 15:41:38 -->
