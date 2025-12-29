@@ -676,3 +676,4 @@ This project is licensed under the MIT License.
 <!-- Commit 337: docs: Update README with usage examples on 2025-12-18 13:57:59 -->
 <!-- Commit 338: test: Add integration tests on 2025-12-19 16:49:35 -->
 <!-- Commit 339: refactor: Decouple modules on 2025-12-19 15:19:23 -->
+<!-- Commit 341: perf: Optimize data loading performance on 2025-12-29 13:38:34 -->
