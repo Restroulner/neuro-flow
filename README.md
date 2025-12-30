@@ -1313,3 +1313,4 @@ This project is licensed under the MIT License.
 <!-- Commit 376: style: Adhere to linter rules on 2025-12-24 15:41:49 -->
 <!-- Commit 377: fix: Resolve bug in model training loop on 2025-12-26 15:41:38 -->
 <!-- Commit 378: fix: Correct off-by-one error in indexing on 2025-12-29 11:18:10 -->
+<!-- Commit 379: docs: Update README with usage examples on 2025-12-30 17:38:37 -->
