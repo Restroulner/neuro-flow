@@ -684,3 +684,4 @@ This project is licensed under the MIT License.
 <!-- Commit 347: perf: Reduce memory footprint on 2025-12-31 16:27:59 -->
 <!-- Commit 348: feat: Add new feature for data processing on 2025-12-31 12:53:18 -->
 <!-- Commit 349: chore: Update dependencies on 2026-01-02 12:41:12 -->
+<!-- Commit 351: docs: Clarify installation instructions on 2026-01-06 16:19:43 -->
