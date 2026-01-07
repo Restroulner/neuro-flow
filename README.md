@@ -960,3 +960,4 @@ This project is licensed under the MIT License.
 <!-- Commit 274: chore: Automate release process on 2026-01-05 14:22:55 -->
 <!-- Commit 276: feat: Integrate new data source on 2026-01-05 17:25:10 -->
 <!-- Commit 277: style: Clean up whitespace on 2026-01-06 10:41:42 -->
+<!-- Commit 278: test: Add integration tests on 2026-01-07 14:46:31 -->
