@@ -346,3 +346,4 @@ This project is licensed under the MIT License.
 <!-- Commit 396: docs: Update README with usage examples on 2026-01-09 12:12:00 -->
 <!-- Commit 397: docs: Clarify installation instructions on 2026-01-09 13:30:58 -->
 <!-- Commit 398: feat: Integrate new data source on 2026-01-12 13:49:19 -->
+<!-- Commit 399: docs: Update README with usage examples on 2026-01-12 13:59:48 -->
