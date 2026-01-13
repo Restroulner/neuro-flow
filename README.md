@@ -1320,3 +1320,4 @@ This project is licensed under the MIT License.
 <!-- Commit 384: style: Format code according to PEP8 on 2026-01-08 17:56:15 -->
 <!-- Commit 386: chore: Upgrade Python version on 2026-01-12 15:54:17 -->
 <!-- Commit 387: docs: Add API documentation on 2026-01-13 17:39:43 -->
+<!-- Commit 388: test: Add integration tests on 2026-01-13 09:46:10 -->
