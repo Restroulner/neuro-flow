@@ -690,3 +690,4 @@ This project is licensed under the MIT License.
 <!-- Commit 354: style: Format code according to PEP8 on 2026-01-08 11:52:10 -->
 <!-- Commit 356: test: Add unit tests for new module on 2026-01-12 13:05:45 -->
 <!-- Commit 357: perf: Reduce memory footprint on 2026-01-13 16:54:41 -->
+<!-- Commit 358: docs: Generate Sphinx documentation on 2026-01-14 12:52:37 -->
