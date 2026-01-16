@@ -693,3 +693,4 @@ This project is licensed under the MIT License.
 <!-- Commit 358: docs: Generate Sphinx documentation on 2026-01-14 12:52:37 -->
 <!-- Commit 359: test: Improve test coverage on 2026-01-15 17:07:40 -->
 <!-- Commit 361: test: Add unit tests for new module on 2026-01-15 12:27:38 -->
+<!-- Commit 362: refactor: Improve code readability and structure on 2026-01-16 16:46:11 -->
