@@ -697,3 +697,4 @@ This project is licensed under the MIT License.
 <!-- Commit 363: docs: Update README with usage examples on 2026-01-16 15:39:04 -->
 <!-- Commit 364: perf: Parallelize computation on 2026-01-16 11:55:03 -->
 <!-- Commit 366: chore: Automate release process on 2026-01-20 17:56:10 -->
+<!-- Commit 367: docs: Update README with usage examples on 2026-01-20 17:26:33 -->
