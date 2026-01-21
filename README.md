@@ -349,3 +349,4 @@ This project is licensed under the MIT License.
 <!-- Commit 399: docs: Update README with usage examples on 2026-01-12 13:59:48 -->
 <!-- Commit 401: chore: Update dependencies on 2026-01-15 17:13:04 -->
 <!-- Commit 402: fix: Resolve bug in model training loop on 2026-01-20 10:57:09 -->
+<!-- Commit 403: style: Format code according to PEP8 on 2026-01-21 12:44:44 -->
