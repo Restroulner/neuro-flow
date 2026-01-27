@@ -1332,3 +1332,4 @@ This project is licensed under the MIT License.
 <!-- Commit 399: chore: Automate release process on 2026-01-23 15:16:44 -->
 <!-- Commit 401: perf: Optimize data loading performance on 2026-01-27 11:56:29 -->
 <!-- Commit 402: docs: Generate Sphinx documentation on 2026-01-27 16:49:16 -->
+<!-- Commit 403: test: Add integration tests on 2026-01-27 13:59:06 -->
