@@ -1335,3 +1335,4 @@ This project is licensed under the MIT License.
 <!-- Commit 403: test: Add integration tests on 2026-01-27 13:59:06 -->
 <!-- Commit 404: chore: Configure CI/CD pipeline on 2026-01-28 12:12:58 -->
 <!-- Commit 406: chore: Automate release process on 2026-01-30 12:46:49 -->
+<!-- Commit 407: docs: Update README with usage examples on 2026-01-30 15:31:15 -->
