@@ -364,3 +364,4 @@ This project is licensed under the MIT License.
 <!-- Commit 418: chore: Upgrade Python version on 2026-02-03 14:09:11 -->
 <!-- Commit 419: chore: Configure CI/CD pipeline on 2026-02-03 12:37:01 -->
 <!-- Commit 421: feat: Implement new evaluation metric on 2026-02-05 15:13:53 -->
+<!-- Commit 422: docs: Generate Sphinx documentation on 2026-02-09 09:38:49 -->
