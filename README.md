@@ -372,3 +372,4 @@ This project is licensed under the MIT License.
 <!-- Commit 428: perf: Parallelize computation on 2026-02-12 11:58:54 -->
 <!-- Commit 429: style: Clean up whitespace on 2026-02-13 15:22:19 -->
 <!-- Commit 431: test: Improve test coverage on 2026-02-16 11:42:17 -->
+<!-- Commit 432: docs: Update README with usage examples on 2026-02-16 09:11:36 -->
