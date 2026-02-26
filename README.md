@@ -1353,3 +1353,4 @@ This project is licensed under the MIT License.
 <!-- Commit 426: fix: Handle edge cases in input validation on 2026-02-17 13:05:25 -->
 <!-- Commit 427: test: Add unit tests for new module on 2026-02-25 10:35:28 -->
 <!-- Commit 428: test: Add unit tests for new module on 2026-02-25 09:44:36 -->
+<!-- Commit 429: fix: Correct off-by-one error in indexing on 2026-02-26 14:36:25 -->
