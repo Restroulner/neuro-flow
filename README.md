@@ -722,3 +722,4 @@ This project is licensed under the MIT License.
 <!-- Commit 394: fix: Handle edge cases in input validation on 2026-02-25 17:06:00 -->
 <!-- Commit 396: refactor: Decouple modules on 2026-02-25 14:56:48 -->
 <!-- Commit 397: feat: Implement new evaluation metric on 2026-02-26 15:53:57 -->
+<!-- Commit 398: refactor: Simplify conditional statements on 2026-02-26 16:46:00 -->
