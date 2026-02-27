@@ -1354,3 +1354,4 @@ This project is licensed under the MIT License.
 <!-- Commit 427: test: Add unit tests for new module on 2026-02-25 10:35:28 -->
 <!-- Commit 428: test: Add unit tests for new module on 2026-02-25 09:44:36 -->
 <!-- Commit 429: fix: Correct off-by-one error in indexing on 2026-02-26 14:36:25 -->
+<!-- Commit 431: docs: Add API documentation on 2026-02-27 11:30:55 -->
