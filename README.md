@@ -986,3 +986,4 @@ This project is licensed under the MIT License.
 <!-- Commit 307: fix: Resolve bug in model training loop on 2026-02-19 15:33:00 -->
 <!-- Commit 308: fix: Resolve bug in model training loop on 2026-02-23 09:39:45 -->
 <!-- Commit 309: style: Adhere to linter rules on 2026-02-24 17:56:04 -->
+<!-- Commit 311: refactor: Improve code readability and structure on 2026-03-02 11:23:24 -->
