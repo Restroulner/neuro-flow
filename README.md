@@ -989,3 +989,4 @@ This project is licensed under the MIT License.
 <!-- Commit 311: refactor: Improve code readability and structure on 2026-03-02 11:23:24 -->
 <!-- Commit 312: fix: Handle edge cases in input validation on 2026-03-03 09:27:34 -->
 <!-- Commit 313: fix: Correct off-by-one error in indexing on 2026-03-03 15:17:20 -->
+<!-- Commit 314: docs: Add API documentation on 2026-03-03 17:31:50 -->
