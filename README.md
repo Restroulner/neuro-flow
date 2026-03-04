@@ -991,3 +991,4 @@ This project is licensed under the MIT License.
 <!-- Commit 313: fix: Correct off-by-one error in indexing on 2026-03-03 15:17:20 -->
 <!-- Commit 314: docs: Add API documentation on 2026-03-03 17:31:50 -->
 <!-- Commit 316: feat: Implement new evaluation metric on 2026-03-04 14:23:34 -->
+<!-- Commit 317: perf: Parallelize computation on 2026-03-04 09:28:31 -->
