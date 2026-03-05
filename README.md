@@ -726,3 +726,4 @@ This project is licensed under the MIT License.
 <!-- Commit 399: refactor: Extract common logic into helper function on 2026-03-02 11:52:20 -->
 <!-- Commit 401: style: Clean up whitespace on 2026-03-03 12:19:19 -->
 <!-- Commit 402: refactor: Simplify conditional statements on 2026-03-04 13:23:17 -->
+<!-- Commit 403: test: Fix broken tests on 2026-03-05 11:13:56 -->
