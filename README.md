@@ -994,3 +994,4 @@ This project is licensed under the MIT License.
 <!-- Commit 317: perf: Parallelize computation on 2026-03-04 09:28:31 -->
 <!-- Commit 318: style: Adhere to linter rules on 2026-03-05 16:31:11 -->
 <!-- Commit 319: refactor: Improve code readability and structure on 2026-03-06 12:35:26 -->
+<!-- Commit 321: docs: Clarify installation instructions on 2026-03-09 10:17:18 -->
