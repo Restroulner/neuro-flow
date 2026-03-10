@@ -996,3 +996,4 @@ This project is licensed under the MIT License.
 <!-- Commit 319: refactor: Improve code readability and structure on 2026-03-06 12:35:26 -->
 <!-- Commit 321: docs: Clarify installation instructions on 2026-03-09 10:17:18 -->
 <!-- Commit 322: test: Fix broken tests on 2026-03-10 14:14:26 -->
+<!-- Commit 323: chore: Upgrade Python version on 2026-03-10 11:33:51 -->
