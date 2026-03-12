@@ -392,3 +392,4 @@ This project is licensed under the MIT License.
 <!-- Commit 453: refactor: Extract common logic into helper function on 2026-03-10 09:08:11 -->
 <!-- Commit 454: chore: Update dependencies on 2026-03-10 16:04:33 -->
 <!-- Commit 456: chore: Automate release process on 2026-03-12 16:50:04 -->
+<!-- Commit 457: docs: Update README with usage examples on 2026-03-12 11:11:01 -->
