@@ -1002,3 +1002,4 @@ This project is licensed under the MIT License.
 <!-- Commit 327: chore: Update dependencies on 2026-03-16 12:59:18 -->
 <!-- Commit 328: style: Clean up whitespace on 2026-03-16 14:35:24 -->
 <!-- Commit 329: refactor: Decouple modules on 2026-03-16 10:32:46 -->
+<!-- Commit 331: docs: Update README with usage examples on 2026-03-17 12:02:45 -->
