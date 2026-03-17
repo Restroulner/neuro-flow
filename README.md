@@ -1003,3 +1003,4 @@ This project is licensed under the MIT License.
 <!-- Commit 328: style: Clean up whitespace on 2026-03-16 14:35:24 -->
 <!-- Commit 329: refactor: Decouple modules on 2026-03-16 10:32:46 -->
 <!-- Commit 331: docs: Update README with usage examples on 2026-03-17 12:02:45 -->
+<!-- Commit 332: chore: Configure CI/CD pipeline on 2026-03-17 10:52:50 -->
