@@ -735,3 +735,4 @@ This project is licensed under the MIT License.
 <!-- Commit 411: fix: Correct off-by-one error in indexing on 2026-03-17 10:22:30 -->
 <!-- Commit 412: test: Add integration tests on 2026-03-18 17:20:24 -->
 <!-- Commit 413: docs: Update README with usage examples on 2026-03-20 11:32:17 -->
+<!-- Commit 414: chore: Configure CI/CD pipeline on 2026-03-23 14:19:16 -->
