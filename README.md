@@ -401,3 +401,4 @@ This project is licensed under the MIT License.
 <!-- Commit 464: chore: Update dependencies on 2026-03-20 10:29:52 -->
 <!-- Commit 466: docs: Clarify installation instructions on 2026-03-23 12:48:50 -->
 <!-- Commit 467: style: Adhere to linter rules on 2026-03-24 12:00:00 -->
+<!-- Commit 468: docs: Add API documentation on 2026-03-24 10:30:18 -->
