@@ -1371,3 +1371,4 @@ This project is licensed under the MIT License.
 <!-- Commit 448: refactor: Simplify conditional statements on 2026-03-18 14:03:08 -->
 <!-- Commit 449: refactor: Simplify conditional statements on 2026-03-19 17:54:45 -->
 <!-- Commit 451: fix: Resolve bug in model training loop on 2026-03-23 10:13:07 -->
+<!-- Commit 452: docs: Add API documentation on 2026-03-25 09:39:38 -->
